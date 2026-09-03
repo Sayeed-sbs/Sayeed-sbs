@@ -238,23 +238,7 @@ A Java OOP project for managing users, tasks, goals and productivity.
   🚀 <strong>More projects coming soon...</strong>
 </p>
 
-<!-- ===================== GITHUB STATISTICS ===================== -->
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sayeed-sbs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="180"
-    alt="Sayeed's GitHub Statistics"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayeed-sbs&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Sayeed's Top Languages"
-  />
-</p>
 
 <!-- ===================== GITHUB STREAK ===================== -->
 
@@ -269,19 +253,7 @@ A Java OOP project for managing users, tasks, goals and productivity.
 
 </p>
 
-<!-- ===================== CODING ACTIVITY ===================== -->
 
-## 📈 Coding Activity
-
-<p align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sayeed-sbs&theme=tokyo-night&hide_border=true"
-    width="100%"
-    alt="Sayeed's GitHub Activity Graph"
-  />
-
-</p>
 
 <!-- ===================== GOALS & ROADMAP ===================== -->
 
