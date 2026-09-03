@@ -243,19 +243,17 @@ A Java OOP project for managing users, tasks, goals and productivity.
 ## 📊 GitHub Statistics
 
 <p align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Sayeed-sbs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Sayeed-sbs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="180"
     alt="Sayeed's GitHub Statistics"
   />
-
+  
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayeed-sbs&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
     alt="Sayeed's Top Languages"
   />
-
 </p>
 
 <!-- ===================== GITHUB STREAK ===================== -->
