@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Sayeed Bin Salim - Web Developer Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm sayeed bin salim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
